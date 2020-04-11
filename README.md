@@ -1,6 +1,6 @@
 # INF-3910
 
-This repository contains a slightly modified, almost vanilla SAFE template.
+This repository contains an (almost) unmodified, vanilla SAFE template.
 
 ## Oblig 3
 
@@ -36,9 +36,7 @@ You'll need to install the following pre-requisites in order to build SAFE appli
 To concurrently run the server and the client components in watch mode use the following command:
 
 ```bash
-.paket/paket.exe install
+paket install
 yarn install
-dotnet restore build.proj
-dotnet fake build -t Run
+fake build -t run
 ```
-
