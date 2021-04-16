@@ -2,16 +2,16 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "fake-cli": {
-      "version": "5.19.1",
+    "fable": {
+      "version": "3.1.15",
       "commands": [
-        "fake"
+        "fable"
       ]
     },
-    "paket": {
-      "version": "5.242.2",
+    "fantomas-tool": {
+      "version": "4.4.0",
       "commands": [
-        "paket"
+        "fantomas"
       ]
     }
   }
