@@ -22,6 +22,12 @@ ways:
   [Giraffe](https://github.com/giraffe-fsharp/Giraffe). Again, Saturn does a
   wonderful job, but hides a lot of detail.
 
+The example code makes heavy use of the
+[Feliz](https://zaid-ajaj.github.io/Feliz/) and
+[Feliz.Bulma](https://zaid-ajaj.github.io/Feliz/#/UIFrameworks/Bulma)
+libraries for the UI in ```src/Client```. You will want to skim trough the
+documentation.
+
 ## Oblig 3
 
 In this exercise you will combine the skills and knowledge from the previous
